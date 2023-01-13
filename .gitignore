@@ -1,0 +1,4 @@
+debug
+runner
+*.o
+# You may add more regular expressions to exclude files from your repo.

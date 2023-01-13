@@ -1,0 +1,9 @@
+DESCRIPTION
+       man is the system's manual pager.  Each page argument given to man is normally the name of a program, utility
+       or function.  The manual page associated with each of these arguments is then found and  displayed.   A  sec‐
+       tion,  if  provided,  will  direct  man to look only in that section of the manual.  The default action is to
+       search in all of the available sections following a pre-defined order (see DEFAULTS), and to  show  only  the
+DESCRIPTION
+       grep  searches  for PATTERNS in each FILE.  PATTERNS is one or more patterns separated by newline characters,
+       and grep prints each line that matches a pattern.  Typically PATTERNS should be quoted when grep is used in a
+       shell command.

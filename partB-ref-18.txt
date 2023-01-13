@@ -1,0 +1,9 @@
+DESCRIPTION
+       man is the system's manual pager.  Each page argument given to man is normally the name of a program, utility
+       or function.  The manual page associated with each of these arguments is then found and  displayed.   A  sec‐
+       tion,  if  provided,  will  direct  man to look only in that section of the manual.  The default action is to
+       search in all of the available sections following a pre-defined order ("1 n l 8 3 2 3posix 3pm 3perl 3am 5  4
+DESCRIPTION
+       grep  searches  for  PATTERN  in  each  FILE.  A FILE of “-” stands for standard input.  If no FILE is given,
+       recursive searches examine the working directory, and nonrecursive searches read standard input.  By default,
+       grep prints the matching lines.
